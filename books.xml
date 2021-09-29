@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Books> 
+	<Catlogue name="Technical"> 		
+		<ISBN-10>0071606211</ISBN-10>
+		<ISBN-13>‎978-0262521710</ISBN-13>
+		<Title>Build Your Own Electric Bicycle</Title> 
+		<Author>Slinn, M</Author>
+		<Price>€19.96</Price> 		
+		<description>A Step-by-Step Guide to Building an Electric Bicycle From the Ground Up</description>
+	</Catlogue> 
+	<Catlogue name="Cookery"> 
+		<ISBN-10></ISBN-10>
+		<ISBN-13>979-8579816306</ISBN-13>
+		<Title>Keto Cookbook For Beginners: 1000 Recipes For Quick &amp; Easy Low-Carb Homemade Cooking</Title> 
+		<Author>Gerald Hubbell </Author>
+		<Price>€11.32</Price> 		
+		<description>The Complete Keto Cookbook with 1000 Effortless Recipes!</description>
+	</Catlogue> 
+</Books> 

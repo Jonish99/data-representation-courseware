@@ -1,2 +1,2 @@
-# data-representation-courseware
-GMIT data-representation-module assessment repository (Jon Ishaque - G00398244
+# data-representation-coursework
+Jon Ishaque Data representation course work
